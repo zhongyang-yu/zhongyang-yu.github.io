@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: lyzy.github.io # /blog/
+permalink: https://lyzy.github.io # /blog/
 title: blog
 nav: true
 nav_order: 1
