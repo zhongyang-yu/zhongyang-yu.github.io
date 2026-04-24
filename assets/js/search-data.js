@@ -14,7 +14,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/lyzy.github.io/index.html";
+            window.location.href = "https://lyzy.github.io/index.html";
           },
         },{id: "nav-publications",
           title: "publications",
