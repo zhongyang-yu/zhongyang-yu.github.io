@@ -14,7 +14,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blog/";
+            window.location.href = "/lyzy.github.io/index.html";
           },
         },{id: "nav-publications",
           title: "publications",
@@ -469,20 +469,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("mailto:%7A%79-%79%75@%6C%69%6E%6B.%63%75%68%6B.%65%64%75.%68%6B", "_blank");
-        },
-      },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=", "_blank");
         },
       },{
       id: 'light-theme',
